@@ -9,7 +9,7 @@ A laser-cuttable mini man figure intended to be burned.
 
 Conveniently fits in a #10 envelope.
 
-Curf of cutter will affect how well he holds together.  Get creative if too lose.
+Curf of cutter will affect how well he holds together.  Get creative if too loose.
 
 - Layers on the DXF:
 - Green - COnstruction - don't cut
